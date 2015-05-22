@@ -1,5 +1,5 @@
 # ApachePoi
-Java
+Apache POI - the Java API for Microsoft Documents
 
 #Environment
 Java8 (jdk1.8.0_05)

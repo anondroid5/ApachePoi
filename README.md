@@ -9,8 +9,15 @@ Apache Maven 3.0.2
 http://mvnrepository.com/
 
 #Details
+Read.java - read.xlsxの読み込み表示
 
+SoccerPlayerReader.java - soccerplayer.xlsxの読み込み表示
 
+SoccerWordReader.java - soccerword.xlsxの読み込み表示
+
+Dictionary.java - dict.xlsxの読み込み表示
+
+Write.java - read.xlsxを読み込んでwrite.xlsxに書き込む
 
 #Author
 Fumihiko Akagi

@@ -1,10 +1,9 @@
 # ApachePoi
 Apache POI - the Java API for Microsoft Documents
 
-#Environment
-Java8 (jdk1.8.0_05)
-
-Apache Maven 3.0.2
+# Requirements
+* Java >= 1.8
+* maven2 (compile)
 
 http://mvnrepository.com/
 
